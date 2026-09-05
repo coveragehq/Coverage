@@ -2,7 +2,7 @@
 
 A modern, minimalist screenwriting app with industry-standard formatting.
 
-[Project site](https://alexminnaar.com/Coverage/) · [Source](https://github.com/alexminnaar/Coverage) · [Issues](https://github.com/alexminnaar/Coverage/issues)
+[Project site](https://coveragehq.github.io/Coverage/) · [Source](https://github.com/coveragehq/Coverage) · [Issues](https://github.com/coveragehq/Coverage/issues)
 
 ## Features
 
