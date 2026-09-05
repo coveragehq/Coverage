@@ -2,6 +2,8 @@
 
 A modern, minimalist screenwriting app with industry-standard formatting.
 
+[Project site](https://alexminnaar.com/Coverage/) · [Source](https://github.com/alexminnaar/Coverage) · [Issues](https://github.com/alexminnaar/Coverage/issues)
+
 ## Features
 
 - **Industry-standard screenplay formatting** - Scene headings, action, character, dialogue, parentheticals, and transitions with proper margins
